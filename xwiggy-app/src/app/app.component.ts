@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 
 
 export class AppComponent {
-  title = 'SpringFood-app';
+  title = 'xwiggy-app';
 
   static total:number;
 
